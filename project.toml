@@ -4,4 +4,4 @@ value = 'htdocs'
 
 [[build.env]]
 name = 'PORT'
-value = '6826'
+value = '8080'
